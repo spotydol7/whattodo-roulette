@@ -19,7 +19,7 @@
 ## 실행
 
 다음 URL에서 확인 가능  
-[https://spotydol7.github.io/whattodo-roullette](https://spotydol7.github.io/whattodo-roullette)
+[https://spotydol7.github.io/whattodo-roulette](https://spotydol7.github.io/whattodo-roulette)
 
 ## 기술 스택
 
