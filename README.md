@@ -21,7 +21,7 @@
 다음 URL에서 확인 가능  
 [https://spotydol7.github.io/whattodo-roulette](https://spotydol7.github.io/whattodo-roulette)
 
-## 기술 스택
+## 사용 기술
 
 - HTML
 - CSS
