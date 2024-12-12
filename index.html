@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>오늘 뭐 하지?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>오늘 뭐 하지? 🎲</h1>
+        
+        <div class="roulettes-container">
+            <div class="roulette-section">
+                <h2>오늘의 메뉴</h2>
+                <div id="foodRoulette" class="roulette">???</div>
+            </div>
+
+            <div class="roulette-section">
+                <h2>밥 먹고 나서는?</h2>
+                <div id="activityRoulette" class="roulette">???</div>
+            </div>
+
+            <div id="customRoulettes" style="display: contents;"></div>
+        </div>
+        <button onclick="spinAllRoulettes()" class="spin-button">룰렛 돌리기!</button>
+        <div class="add-roulette">
+            <span onclick="addNewRoulette()">룰렛이 더 필요한가요?</span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
